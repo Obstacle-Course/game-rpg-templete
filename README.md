@@ -1,5 +1,5 @@
 # Unity 3D Top-Down RPG Game
-![Alt Text](Screenshot 2024-02-07 at 12.50.46 AM.png)
+
 ![Gameplay Screenshot](screenshots/gameplay.png)
 
 
