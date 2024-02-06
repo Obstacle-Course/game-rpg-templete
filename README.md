@@ -1,4 +1,4 @@
-# Unity 3D Top-Down rpg Game
+# Unity 3D Top-Down RPG Game
 
 ![Gameplay Screenshot](screenshot.png)
 
