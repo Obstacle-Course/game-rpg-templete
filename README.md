@@ -1,6 +1,6 @@
 # Unity 3D Top-Down RPG Game
 
-![Gameplay Screenshot](screenshot.png)
+![Gameplay Screenshot](Screenshot 2024-02-07 at 12.50.46 AM.png)
 
 This is a 3D top-down adventure game developed in Unity where the player controls a character equipped with a melee weapon, a hook, and faces enemies that spawn from spawners. The player's goal is to collect a key, defeat enemies, navigate through the environment, and escape through the exit door.
 
